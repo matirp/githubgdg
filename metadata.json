@@ -1,0 +1,7 @@
+{
+  "name": "TalentAI - Your Athletic Performance Partner",
+  "description": "AI-powered athletic assessment platform that uses pose detection to track exercises and provide real-time coaching feedback.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
